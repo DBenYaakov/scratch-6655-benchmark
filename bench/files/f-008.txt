@@ -1,0 +1,8 @@
+fixture file 008
+line 1: unit 008.1 carries deterministic benchmark content for the activation review.
+line 2: unit 008.2 carries deterministic benchmark content for the activation review.
+line 3: unit 008.3 carries deterministic benchmark content for the activation review.
+line 4: unit 008.4 carries deterministic benchmark content for the activation review.
+line 5: unit 008.5 carries deterministic benchmark content for the activation review.
+line 6: unit 008.6 carries deterministic benchmark content for the activation review.
+line 7: unit 008.7 carries deterministic benchmark content for the activation review.

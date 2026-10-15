@@ -1,0 +1,8 @@
+fixture file 077
+line 1: unit 077.1 carries deterministic benchmark content for the activation review.
+line 2: unit 077.2 carries deterministic benchmark content for the activation review.
+line 3: unit 077.3 carries deterministic benchmark content for the activation review.
+line 4: unit 077.4 carries deterministic benchmark content for the activation review.
+line 5: unit 077.5 carries deterministic benchmark content for the activation review.
+line 6: unit 077.6 carries deterministic benchmark content for the activation review.
+line 7: unit 077.7 carries deterministic benchmark content for the activation review.

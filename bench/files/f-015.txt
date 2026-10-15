@@ -1,0 +1,8 @@
+fixture file 015
+line 1: unit 015.1 carries deterministic benchmark content for the activation review.
+line 2: unit 015.2 carries deterministic benchmark content for the activation review.
+line 3: unit 015.3 carries deterministic benchmark content for the activation review.
+line 4: unit 015.4 carries deterministic benchmark content for the activation review.
+line 5: unit 015.5 carries deterministic benchmark content for the activation review.
+line 6: unit 015.6 carries deterministic benchmark content for the activation review.
+line 7: unit 015.7 carries deterministic benchmark content for the activation review.

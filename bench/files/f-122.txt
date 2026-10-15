@@ -1,0 +1,8 @@
+fixture file 122
+line 1: unit 122.1 carries deterministic benchmark content for the activation review.
+line 2: unit 122.2 carries deterministic benchmark content for the activation review.
+line 3: unit 122.3 carries deterministic benchmark content for the activation review.
+line 4: unit 122.4 carries deterministic benchmark content for the activation review.
+line 5: unit 122.5 carries deterministic benchmark content for the activation review.
+line 6: unit 122.6 carries deterministic benchmark content for the activation review.
+line 7: unit 122.7 carries deterministic benchmark content for the activation review.

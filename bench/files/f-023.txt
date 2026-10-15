@@ -1,0 +1,8 @@
+fixture file 023
+line 1: unit 023.1 carries deterministic benchmark content for the activation review.
+line 2: unit 023.2 carries deterministic benchmark content for the activation review.
+line 3: unit 023.3 carries deterministic benchmark content for the activation review.
+line 4: unit 023.4 carries deterministic benchmark content for the activation review.
+line 5: unit 023.5 carries deterministic benchmark content for the activation review.
+line 6: unit 023.6 carries deterministic benchmark content for the activation review.
+line 7: unit 023.7 carries deterministic benchmark content for the activation review.

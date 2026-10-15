@@ -1,0 +1,8 @@
+fixture file 062
+line 1: unit 062.1 carries deterministic benchmark content for the activation review.
+line 2: unit 062.2 carries deterministic benchmark content for the activation review.
+line 3: unit 062.3 carries deterministic benchmark content for the activation review.
+line 4: unit 062.4 carries deterministic benchmark content for the activation review.
+line 5: unit 062.5 carries deterministic benchmark content for the activation review.
+line 6: unit 062.6 carries deterministic benchmark content for the activation review.
+line 7: unit 062.7 carries deterministic benchmark content for the activation review.

@@ -1,0 +1,8 @@
+fixture file 092
+line 1: unit 092.1 carries deterministic benchmark content for the activation review.
+line 2: unit 092.2 carries deterministic benchmark content for the activation review.
+line 3: unit 092.3 carries deterministic benchmark content for the activation review.
+line 4: unit 092.4 carries deterministic benchmark content for the activation review.
+line 5: unit 092.5 carries deterministic benchmark content for the activation review.
+line 6: unit 092.6 carries deterministic benchmark content for the activation review.
+line 7: unit 092.7 carries deterministic benchmark content for the activation review.

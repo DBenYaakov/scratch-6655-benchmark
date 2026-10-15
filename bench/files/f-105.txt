@@ -1,0 +1,8 @@
+fixture file 105
+line 1: unit 105.1 carries deterministic benchmark content for the activation review.
+line 2: unit 105.2 carries deterministic benchmark content for the activation review.
+line 3: unit 105.3 carries deterministic benchmark content for the activation review.
+line 4: unit 105.4 carries deterministic benchmark content for the activation review.
+line 5: unit 105.5 carries deterministic benchmark content for the activation review.
+line 6: unit 105.6 carries deterministic benchmark content for the activation review.
+line 7: unit 105.7 carries deterministic benchmark content for the activation review.

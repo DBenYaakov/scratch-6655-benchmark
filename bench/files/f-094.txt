@@ -1,0 +1,8 @@
+fixture file 094
+line 1: unit 094.1 carries deterministic benchmark content for the activation review.
+line 2: unit 094.2 carries deterministic benchmark content for the activation review.
+line 3: unit 094.3 carries deterministic benchmark content for the activation review.
+line 4: unit 094.4 carries deterministic benchmark content for the activation review.
+line 5: unit 094.5 carries deterministic benchmark content for the activation review.
+line 6: unit 094.6 carries deterministic benchmark content for the activation review.
+line 7: unit 094.7 carries deterministic benchmark content for the activation review.

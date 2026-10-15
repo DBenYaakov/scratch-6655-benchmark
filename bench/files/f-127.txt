@@ -1,0 +1,8 @@
+fixture file 127
+line 1: unit 127.1 carries deterministic benchmark content for the activation review.
+line 2: unit 127.2 carries deterministic benchmark content for the activation review.
+line 3: unit 127.3 carries deterministic benchmark content for the activation review.
+line 4: unit 127.4 carries deterministic benchmark content for the activation review.
+line 5: unit 127.5 carries deterministic benchmark content for the activation review.
+line 6: unit 127.6 carries deterministic benchmark content for the activation review.
+line 7: unit 127.7 carries deterministic benchmark content for the activation review.
